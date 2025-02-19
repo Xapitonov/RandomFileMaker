@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RandomFileMaker</string>
+    <string name="make">Сделать</string>
+    <string name="make_exclamation">Сделать!</string>
+    <string name="configuration">Конфигурация</string>
+    <string name="theme_configuration">Конфигурация темы</string>
+    <string name="about">О программе</string>
+    <string name="size">Размер</string>
+    <string name="Bytes">Байты</string>
+    <string name="KB">КБ</string>
+    <string name="MB">МБ</string>
+    <string name="GB">ГБ</string>
+    <string name="using_securerandom">Повысить безопасность</string>
+    <string name="license">Лицензия</string>
+    <string name="version">Версия</string>
+    <string name="title_activity_license">Лицензия</string>
+    <string name="loading">Загрузка</string>
+    <string name="error">Ошибка</string>
+    <string name="make_file_failed">Не удалось сделать файл(ов):</string>
+    <string name="making_file_dont_close">Делаю случайные файла, не закрывайте</string>
+    <string name="done">Готово</string>
+    <string name="this_program_is_free_software">
+    Данное ПО является свободным: вы можете распространять и/или изменять
+    его в соответствии с условиями GNU General Public License, опубликованной
+    Фондом свободного ПО, либо версии 3 лицензии, либо
+    (по вашему выбору) любой следующей версии.
+
+    Данное ПО распространяется в надежде, что оно окажется полезным,
+    но БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ; даже без подразумеваемых гарантий
+    товарной ценности или пригодности для конкретной цели. См.
+    GNU General Public License для получения дополнительных сведений.
+	</string>
+</resources>
